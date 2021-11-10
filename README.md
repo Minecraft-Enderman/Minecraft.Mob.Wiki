@@ -1,1 +1,0 @@
-# Minecraft.Mob.Wiki
